@@ -1,5 +1,4 @@
 package hello;
 
-public class yuku {
-
+public class yuku{
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Abhishek_Ques/|Sorting_Kadanes/" kind="src" path=""/>
+	<classpathentry kind="src" path="Abhishek_Ques"/>
+	<classpathentry kind="src" path="Sorting_Kadanes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
